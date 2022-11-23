@@ -1,6 +1,6 @@
    jQuery(document).ready(function ($) {
 var ringer = {
- countdown_to: "10/10/2023",  // setting tanggal akhir
+ countdown_to: "11/25/2022",  // setting tanggal akhir
  rings: {
    'DAYS': { 
      s: 86400000, // mseconds in a day,
